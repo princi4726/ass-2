@@ -1,0 +1,111 @@
+h2{
+    text-align: center;
+    }
+    .form-container { 
+    width: 400px; 
+    margin: 50px auto; 
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: left; 
+    background-color: white;
+    }
+    label {
+    font-weight: bold;
+    }
+    input[type="text"], 
+    input[type="email"] {
+    width: 100%; 
+    padding: 8px; 
+    margin: 5px 0;
+    border: 1px solid black; 
+    border-radius: 5px;
+    }
+    input[type="radio"],
+    input[type="checkbox"] { 
+    margin-right: 5px;
+    }
+    input[type="submit"], 
+    input[type="reset"] {
+    width: 100px; 
+    padding: 10px; 
+    margin: 5px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+    }
+    input[type="submit"] {
+    background-color:rgb(26, 150, 26); 
+    color: white;
+    }
+    input[type="reset"] {
+    background-color: rgb(101, 101, 101); 
+    color: white;
+    }
+    body{
+    background-color: lightsteelblue;
+    }/* Heading Center Alignment */
+h2 {
+    text-align: center;
+  }
+  
+  /* Main Form Container */
+  .form-container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: left;
+    background-color: white;
+  }
+  
+  /* Labels */
+  label {
+    font-weight: bold;
+  }
+  
+  /* Text and Email Inputs */
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  /* Radio and Checkbox Inputs */
+  input[type="radio"],
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  /* Submit and Reset Buttons */
+  input[type="submit"],
+  input[type="reset"] {
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Submit Button Style */
+  input[type="submit"] {
+    background-color: rgb(26, 150, 26);
+    color: white;
+  }
+  
+  /* Reset Button Style */
+  input[type="reset"] {
+    background-color: rgb(101, 101, 101);
+    color: white;
+  }
+  
+  /* Body Background */
+  body {
+    background-color: lightsteelblue;
+  }
+  
